@@ -1,0 +1,67 @@
+header {
+  background-image: url(../img/uno.jpg);
+  background-repeat: no-repeat;
+  height: 38em;
+  background-size: 100% 100%; 
+}
+.titles {
+  text-align: right;
+  color: #fff;
+  padding: 3.5% 2% 2%;
+  background-color: rgb(231, 119, 74);
+}
+.subtitle{
+  padding-top: 1%;
+  font-weight: 300;
+}
+.aboutPandas {
+  border-top: 0.9em solid rgb(231, 119, 74);
+  border-bottom: 0.9em solid rgb(231, 119, 74);
+  background-color: rgb(111, 201, 129);
+  margin-top: -7em;
+
+}
+.aboutPandas h3 {
+  padding-bottom: 1em;
+}
+.paragraphAboutPandas {
+  margin: 3% auto;
+  background-color: rgb(231, 119, 74);
+  color: #fff;
+  float: none !important;
+  text-align: center;
+  padding-top: 3em;
+}
+.pictures{
+  float: none !important;
+  margin: 2% auto;
+}
+.pictures img {
+  width: 100%;
+  border: 0.5em solid #fff;
+}
+#pictureSection {
+  background-image: url(../img/dos.jpg);    
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-top: 41em;
+  color: #fff;
+}
+#pictureSection>div {
+  padding: 3em 0;
+  background-color: rgb(111, 201, 129);
+  text-align: center;
+  border-top: 0.9em solid rgb(231, 119, 74);
+  border-bottom: 0.9em solid rgb(231, 119, 74);
+}
+#pictureFooter {
+  background-image: url(../img/tres.jpg);    
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  padding-top: 41em;
+  color: #fff;
+}
+#pictureFooter>div {
+ background-color: rgb(231, 119, 74);
+ text-align: right;
+}
